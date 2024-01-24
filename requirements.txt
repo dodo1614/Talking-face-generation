@@ -1,9 +1,6 @@
-Flask==2.2.3
 Werkzeug==2.2.2
 librosa==0.7.0
 numba==0.48.0
 numpy==1.19.5
-onnx==1.13.1
-onnxruntime==1.14.1
 opencv-python==4.7.0.72
 resampy==0.2.2
